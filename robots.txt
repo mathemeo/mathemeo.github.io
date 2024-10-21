@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mathemeo.github.io/mathemeo.txt.gz
+Sitemap: https://mathemeo.github.io/app/mathemeo.txt.gz
+Sitemap: https://mathemeo.github.io/assets/mathemeo.txt.gz
+Sitemap: https://mathemeo.github.io/css/mathemeo.txt.gz
+Sitemap: https://mathemeo.github.io/includes/mathemeo.txt.gz
+Sitemap: https://mathemeo.github.io/item/mathemeo.txt.gz
+Sitemap: https://mathemeo.github.io/src/mathemeo.txt.gz
